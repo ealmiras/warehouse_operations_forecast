@@ -107,3 +107,6 @@ Outputs are suitable for:
 ├── README.md
 └── requirements.txt
 ```
+
+```bash
+pip install -r requirements.txt
