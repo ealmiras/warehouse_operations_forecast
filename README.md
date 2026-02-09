@@ -51,7 +51,7 @@ Model selection based on:
 Selected approach:  
 Multiplicative seasonality with damped trend, balancing accuracy and interpretability.
 
-📄 Notebook: [01_customer_orders_forecast.ipynb]
+📄 Notebook: [Customer Orders Forecast Notebook](notebooks/01_customer_orders_forecast.ipynb)
 
 ### Brand Inbound Delivery Forecast
 
@@ -66,7 +66,7 @@ Key observations:
 - Shipment-to-plan ratios are noisy week-to-week but stable in aggregate
 - Ratio-based adjustment is more robust than forcing complex models
 
-📄 Notebook: [02_brand_inbound_forecast.ipynb]
+📄 Notebook: [Brand Inbound Forecast Notebook](notebooks/02_brand_inbound_forecast.ipynb)
 
 ## Results (High Level)
 Forecasts capture major trend and seasonal dynamics across all streams
