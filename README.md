@@ -97,7 +97,6 @@ Outputs are suitable for:
 ## Repository Structure
 
 ```
-.
 ├── notebooks/
 │   ├── 01_customer_orders_forecast.ipynb
 │   └── 02_brand_inbound_forecast.ipynb
